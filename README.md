@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Visitante!</h1>
-<h3 align="center">Muito Prazer! me chamo Rafael e sou um desenvolvedor Front-end apaixonado por design e programação, com experiência em criação de sites utilizando as tecnologias mais modernas da atualidade, tenho conhecimentos em HTML, CSS, Javascript, Typescript, ReactJs e atualmente estou estudando NextJs, Python e banco de dados.</h3>
+<h3 align="center">Muito Prazer! me chamo Rafael e sou um desenvolvedor Front-end apaixonado por design e programação, com experiência em criação de sites utilizando as tecnologias mais modernas da atualidade, tenho conhecimentos em HTML, CSS, Javascript, Typescript, ReactJs e NextJs</h3>
 
 - Atualmente faço parte do desenvolvimento de projeto de uma comunidade de programadores na parte de UX/UI Design e Desenvolvimento Back-End. Conheça a [Vacuum](https://github.com/VacuumORG)
 
