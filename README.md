@@ -9,7 +9,10 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rafael-oliveira-16b633277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-oliveira-16b633277/">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="My LinkedIn profile"/></a>
 </p>
 
 <h3 align="center">Liguagens e Ferramentas:</h3>
