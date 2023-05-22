@@ -8,23 +8,15 @@
 - Email: **rafazel@outlook.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
-<div align="center">
-  <a href="mailto:raniery2003@hotmail.com">
+<div align="left">
+  <a href="mailto:rafazel@outlook.com">
     <img
       src="https://custom-icon-badges.demolab.com/badge/e%E2%80%93mail-0078D4.svg?logo=maildotru&logoColor=white&style=for-the-badge"
       alt="My e-mail"/></a>
-  <a href="https://www.linkedin.com/in/ranierygoulart/">
+  <a href="https://www.linkedin.com/in/rafael-oliveira-16b633277/">
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn profile"/></a>
-  <a href="https://www.instagram.com/ranierygoulart/">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge"
-      alt="My Instagram"/></a>
-  <a href="https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/Spotify-1DB954.svg?logo=spotify&logoColor=white&style=for-the-badge"
-      alt="My Spotify profile"/></a>
 </div>
 
 <h3 align="center">Liguagens e Ferramentas:</h3>
