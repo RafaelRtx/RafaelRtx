@@ -15,21 +15,23 @@
       alt="My LinkedIn profile"/></a>
 </div>
 
- # Linguagens e Ferramentas:
+<div align="center">
+  
+# Linguagens e Ferramentas:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git&theme=dark" />
   </a>
 </p>
 
-<div align="center">
+  
 <a href="https://github.com/RafaelRtx">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRtx&layout=compact&langs_count=8&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRtx&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-</div>
-  
+ 
    # Vacuum
  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
  [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
+ </div>
