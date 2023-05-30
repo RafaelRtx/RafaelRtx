@@ -16,7 +16,7 @@
 </div>
 
 <h3 align="center">Liguagens e Ferramentas:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/RafaelRtx">
