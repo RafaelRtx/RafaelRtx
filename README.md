@@ -16,7 +16,12 @@
 </div>
 
 <h3 align="center">Liguagens e Ferramentas:</h3>
-(https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git" />
+  </a>
+</p>
 
 <div align="center">
 <a href="https://github.com/RafaelRtx">
