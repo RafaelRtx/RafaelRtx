@@ -15,6 +15,12 @@
       alt="My LinkedIn profile"/></a>
 </div>
 
+ # Vacuum
+ [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
+ [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
+
 <h3 align="center">Liguagens e Ferramentas:</h3>
 
 <p align="center">
