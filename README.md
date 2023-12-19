@@ -1,11 +1,20 @@
 <h1 align="center">Olá, Visitante!</h1>
-<h3 align="center">Muito Prazer! me chamo Rafael e sou um desenvolvedor Front-end apaixonado por design e programação, com experiência em criação de sites utilizando as tecnologias mais modernas da atualidade, tenho conhecimentos em HTML, CSS, Javascript, Typescript e ReactJs</h3>
+<h3 align="center">Muito Prazer! me chamo Rafael e sou um desenvolvedor Fullstack apaixonado por UX/UI design e programação web.</h3>
 
-- Atualmente faço parte do desenvolvimento de projeto de uma comunidade de programadores na parte de UX/UI Design e Desenvolvimento Back-End. Conheça a [Vacuum](https://github.com/VacuumORG)
+</br>
 
-- Estou também aprendendo **NextJs, Python e Django. Com muito interesse em banco de dados e testes unitários.**
-
+<div>
+ <img align="right" width="360" height="250" src=Assets/gif.gif/>
+ </div>
+</br>
+  
+- Possuo experiência no desenvolvimento de aplicações web utilizando as tecnologias mais modernas da atualidade, como Javascript, Typescript, React, NodeJs e NestJs.
+  
+- Tenho conhecimentos também em **Testes unitários e Docker.**
+  
 - Email: **rafazel@outlook.com**
+
+</br>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
@@ -20,18 +29,13 @@
 # Linguagens e Ferramentas:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,py,figma,xd,postman,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,py,figma,postman,nestjs,nodejs,docker,jest,prisma,postgres,git&theme=dark" />
   </a>
 </p>
 
+</br>
   
 <a href="https://github.com/RafaelRtx">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRtx&layout=compact&langs_count=8&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRtx&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
- 
-   # Vacuum
- [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
- [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
  </div>
