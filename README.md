@@ -10,7 +10,7 @@
   
 - Possuo experiência no desenvolvimento de aplicações web utilizando as tecnologias mais modernas da atualidade, como Javascript, Typescript, React, NodeJs e NestJs.
   
-- Tenho conhecimentos também em **Testes unitários e Docker.**
+- Tenho conhecimentos também em **Testes unitários, Docker e criação de Pipelines CI/CD.**
   
 - Email: **rafazel@outlook.com**
 
